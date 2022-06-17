@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joshuaoni
 - 👀 I’m interested in Front End (React) and Back End (Nodejs) Dev Roles 
-- 🌱 I’m currently learning data structures and algorithms 
+- 🌱 I’m currently learning MySql 
 - 📫 How to reach me joshuadavidoni@yahoo.com
 
 <!---
