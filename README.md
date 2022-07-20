@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joshuaoni
 - 👀 I’m interested in Front End (React) and Back End (Nodejs) Dev Roles 
-- 🌱 I’m currently learning Unit Testing 
+- 🌱 I’m currently learning React Unit Testing 
 - 📫 How to reach me joshuadavidoni@yahoo.com
 
 <!---
