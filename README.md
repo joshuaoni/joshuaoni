@@ -2,6 +2,8 @@
 - 👀 I’m interested in Front End (React) and Back End (Nodejs) Dev Roles 
 - 🌱 I’m currently learning React Unit Testing 
 - 📫 How to reach me joshuadavidoni@yahoo.com
+--------------------
+- 🕸 joshuaoni.tech
 
 <!---
 joshuaoni/joshuaoni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
