@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @joshuaoni
 - 👀 I’m interested in Front End (Javascript/React/Next) and Back End (Nodejs) Dev Roles 
-- 🌱 I’m currently learning Unit Testing 
-- 📫 How to reach me joshuadavidoni@yahoo.com
-- 🕸 [joshuaoni.tech](https://www.joshuaoni.tech)
+- 🌱 I’m currently learning Django 
+- 📫 How to reach me davidjoshua603@yahoo.com
+- 🕸 [joshuaoni.tech](https://joshuaoni.netlify.app/)
 
 <!---
 joshuaoni/joshuaoni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
