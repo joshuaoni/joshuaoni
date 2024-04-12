@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @joshuaoni
-- 👀 I’m interested in Front End (Javascript/React/Next) and Back End (Nodejs) Dev Roles 
+- 👀 I’m interested in Front End (Javascript/React/Next) and Back End (Nest/Node) Dev Roles 
 - 📫 How to reach me davidjoshua603@yahoo.com
 - 🕸 [joshuaoni.tech](https://joshuaoni.netlify.app/)
 
