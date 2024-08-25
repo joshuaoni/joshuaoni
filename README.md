@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @joshuaoni
-- 👀 I’m interested in Front End (Javascript/React/Next) and Back End (Nest/Node) Dev Roles 
-- 📫 How to reach me davidjoshua603@yahoo.com
-- 🕸 [joshuaoni.tech](https://joshuaoni.netlify.app/)
+- 👀 I’m interested in both backend and frontend software devevelopment roles .
+- 📫 How to reach me [davidjoshua603@yahoo.com]([mailto:davidjoshua603@gmail.com))
+- 🕸 [linkedin.com/in/joshua-oni-387850223/]([https://joshuaoni.netlify.app/](https://www.linkedin.com/in/joshua-oni-387850223/))
 
 <!---
 joshuaoni/joshuaoni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
