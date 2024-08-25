@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @joshuaoni
-- 👀 I’m interested in both backend and frontend software devevelopment roles .
+- 👋 Hi, I’m Joshua Oni - A software engineer from Lagos, Nigeria.
+- 👀 I’m interested in both backend and frontend software devevelopment roles.
 - 📫 How to reach me [davidjoshua603@yahoo.com]([mailto:davidjoshua603@gmail.com))
 - 🕸 [linkedin.com/in/joshua-oni-387850223/]([https://joshuaoni.netlify.app/](https://www.linkedin.com/in/joshua-oni-387850223/))
 
